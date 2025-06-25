@@ -6,8 +6,7 @@ import core.basesyntax.Model.Cat;
 import java.time.LocalDate;
 import java.util.Objects;
 
-public class Hello_World
-{
+public class HelloWorld {
     private String a;
     private int vARIaBLE;
     private int age, size;
